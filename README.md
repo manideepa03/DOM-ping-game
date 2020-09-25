@@ -1,1 +1,1 @@
-# Udemy-course-DOM-ping-game
+# DOM-ping-game
